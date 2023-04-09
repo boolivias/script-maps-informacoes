@@ -1,0 +1,867 @@
+[
+  {
+    "NUM_BO": 8223,
+    "maps_result": [
+      {
+        "address_components": [
+          {
+            "long_name": "1656",
+            "short_name": "1656",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Avenida Maria Leonor",
+            "short_name": "Av. Maria Leonor",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Centro",
+            "short_name": "Centro",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Diadema",
+            "short_name": "Diadema",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "S\u00e3o Paulo",
+            "short_name": "SP",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brazil",
+            "short_name": "BR",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "09920-080",
+            "short_name": "09920-080",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Av. Maria Leonor, 1656 - Centro, Diadema - SP, 09920-080, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.676324,
+            "lng": -46.628303
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": -23.67497501970849,
+              "lng": -46.6269540197085
+            },
+            "southwest": {
+              "lat": -23.6776729802915,
+              "lng": -46.62965198029149
+            }
+          }
+        },
+        "place_id": "ChIJX83S7N5EzpQRw_A10CXemIY",
+        "plus_code": {
+          "compound_code": "89FC+FM Centro, Diadema - SP, Brazil",
+          "global_code": "588M89FC+FM"
+        },
+        "types": [
+          "street_address"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "Av. Concei\u00e7\u00e3o, 125",
+            "short_name": "Av. Concei\u00e7\u00e3o, 125",
+            "types": [
+              "establishment",
+              "point_of_interest",
+              "transit_station"
+            ]
+          },
+          {
+            "long_name": "Centro",
+            "short_name": "Centro",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Diadema",
+            "short_name": "Diadema",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "S\u00e3o Paulo",
+            "short_name": "SP",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brazil",
+            "short_name": "BR",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "09920-000",
+            "short_name": "09920-000",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Av. Concei\u00e7\u00e3o, 125 - Centro, Diadema - SP, 09920-000, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.67642,
+            "lng": -46.62813999999999
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -23.6750710197085,
+              "lng": -46.62679101970849
+            },
+            "southwest": {
+              "lat": -23.6777689802915,
+              "lng": -46.62948898029149
+            }
+          }
+        },
+        "place_id": "ChIJF1p8kt5EzpQRs4U9V2iUlMk",
+        "plus_code": {
+          "compound_code": "89FC+CP S\u00e3o Paulo, State of S\u00e3o Paulo, Brazil",
+          "global_code": "588M89FC+CP"
+        },
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "1040",
+            "short_name": "1040",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Avenida Concei\u00e7\u00e3o",
+            "short_name": "Av. Concei\u00e7\u00e3o",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Centro",
+            "short_name": "Centro",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Diadema",
+            "short_name": "Diadema",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "S\u00e3o Paulo",
+            "short_name": "SP",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brazil",
+            "short_name": "BR",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "09920-000",
+            "short_name": "09920-000",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Av. Concei\u00e7\u00e3o, 1040 - Centro, Diadema - SP, 09920-000, Brazil",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": -23.6759311,
+              "lng": -46.6283207
+            },
+            "southwest": {
+              "lat": -23.6761734,
+              "lng": -46.6285555
+            }
+          },
+          "location": {
+            "lat": -23.6760584,
+            "lng": -46.6284158
+          },
+          "location_type": "ROOFTOP",
+          "viewport": {
+            "northeast": {
+              "lat": -23.6747032697085,
+              "lng": -46.6270891197085
+            },
+            "southwest": {
+              "lat": -23.6774012302915,
+              "lng": -46.6297870802915
+            }
+          }
+        },
+        "place_id": "ChIJV1726t5EzpQReOk8fxiN3fI",
+        "types": [
+          "premise"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "89FC+FJ",
+            "short_name": "89FC+FJ",
+            "types": [
+              "plus_code"
+            ]
+          },
+          {
+            "long_name": "S\u00e3o Paulo",
+            "short_name": "S\u00e3o Paulo",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "State of S\u00e3o Paulo",
+            "short_name": "SP",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brazil",
+            "short_name": "BR",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "89FC+FJ S\u00e3o Paulo, State of S\u00e3o Paulo, Brazil",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": -23.67625,
+              "lng": -46.628375
+            },
+            "southwest": {
+              "lat": -23.676375,
+              "lng": -46.6285
+            }
+          },
+          "location": {
+            "lat": -23.6763528,
+            "lng": -46.6283874
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -23.6749635197085,
+              "lng": -46.6270885197085
+            },
+            "southwest": {
+              "lat": -23.6776614802915,
+              "lng": -46.6297864802915
+            }
+          }
+        },
+        "place_id": "GhIJ244EdSWtN8AR9xuS_25QR8A",
+        "plus_code": {
+          "compound_code": "89FC+FJ S\u00e3o Paulo, State of S\u00e3o Paulo, Brazil",
+          "global_code": "588M89FC+FJ"
+        },
+        "types": [
+          "plus_code"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "Avenida Concei\u00e7\u00e3o",
+            "short_name": "Av. Concei\u00e7\u00e3o",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Centro",
+            "short_name": "Centro",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Diadema",
+            "short_name": "Diadema",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "S\u00e3o Paulo",
+            "short_name": "SP",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brazil",
+            "short_name": "BR",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "09920-000",
+            "short_name": "09920-000",
+            "types": [
+              "postal_code"
+            ]
+          }
+        ],
+        "formatted_address": "Av. Concei\u00e7\u00e3o - Centro, Diadema - SP, 09920-000, Brazil",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": -23.6762199,
+              "lng": -46.6283615
+            },
+            "southwest": {
+              "lat": -23.6763439,
+              "lng": -46.6286076
+            }
+          },
+          "location": {
+            "lat": -23.6762819,
+            "lng": -46.6284846
+          },
+          "location_type": "GEOMETRIC_CENTER",
+          "viewport": {
+            "northeast": {
+              "lat": -23.6749329197085,
+              "lng": -46.6271355697085
+            },
+            "southwest": {
+              "lat": -23.6776308802915,
+              "lng": -46.6298335302915
+            }
+          }
+        },
+        "place_id": "ChIJM9547N5EzpQRsNbooreSjmY",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "04417-240",
+            "short_name": "04417-240",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "Rua Delfim Guedes",
+            "short_name": "R. Delfim Guedes",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Jardim Miriam",
+            "short_name": "Jardim Miriam",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "S\u00e3o Paulo",
+            "short_name": "S\u00e3o Paulo",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "S\u00e3o Paulo",
+            "short_name": "SP",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brazil",
+            "short_name": "BR",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "R. Delfim Guedes - Jardim Miriam, S\u00e3o Paulo - SP, 04417-240, Brazil",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": -23.6759076,
+              "lng": -46.6283028
+            },
+            "southwest": {
+              "lat": -23.6795472,
+              "lng": -46.63192129999999
+            }
+          },
+          "location": {
+            "lat": -23.6768352,
+            "lng": -46.6290836
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": -23.6759076,
+              "lng": -46.6283028
+            },
+            "southwest": {
+              "lat": -23.6795472,
+              "lng": -46.63192129999999
+            }
+          }
+        },
+        "place_id": "ChIJ21vO8d5EzpQRggEqk8xKs7c",
+        "types": [
+          "postal_code"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "Parque Mamede",
+            "short_name": "Parque Mamede",
+            "types": [
+              "political",
+              "sublocality",
+              "sublocality_level_1"
+            ]
+          },
+          {
+            "long_name": "Diadema",
+            "short_name": "Diadema",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "S\u00e3o Paulo",
+            "short_name": "SP",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brazil",
+            "short_name": "BR",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "Parque Mamede, Diadema - SP, Brazil",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": -23.674573,
+              "lng": -46.6218548
+            },
+            "southwest": {
+              "lat": -23.6805344,
+              "lng": -46.6302735
+            }
+          },
+          "location": {
+            "lat": -23.6770658,
+            "lng": -46.6264937
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": -23.674573,
+              "lng": -46.6218548
+            },
+            "southwest": {
+              "lat": -23.6805344,
+              "lng": -46.6302735
+            }
+          }
+        },
+        "place_id": "ChIJRb5k6t1EzpQRod6SBzSxpdU",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "Diadema",
+            "short_name": "Diadema",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "State of S\u00e3o Paulo",
+            "short_name": "SP",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brazil",
+            "short_name": "BR",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "Diadema - State of S\u00e3o Paulo, Brazil",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": -23.657341,
+              "lng": -46.577515
+            },
+            "southwest": {
+              "lat": -23.7390656,
+              "lng": -46.651291
+            }
+          },
+          "location": {
+            "lat": -23.6841325,
+            "lng": -46.620698
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": -23.657341,
+              "lng": -46.577515
+            },
+            "southwest": {
+              "lat": -23.7390656,
+              "lng": -46.651291
+            }
+          }
+        },
+        "place_id": "ChIJswr9EFxEzpQRUZu8_08nza0",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "Diadema",
+            "short_name": "Diadema",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Diadema",
+            "short_name": "Diadema",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "State of S\u00e3o Paulo",
+            "short_name": "SP",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brazil",
+            "short_name": "BR",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "Diadema, State of S\u00e3o Paulo, Brazil",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": -23.6576281,
+              "lng": -46.578141
+            },
+            "southwest": {
+              "lat": -23.7390912,
+              "lng": -46.6487213
+            }
+          },
+          "location": {
+            "lat": -23.6879922,
+            "lng": -46.6251796
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": -23.6576281,
+              "lng": -46.578141
+            },
+            "southwest": {
+              "lat": -23.7390912,
+              "lng": -46.6487213
+            }
+          }
+        },
+        "place_id": "ChIJYyKW411EzpQR2yGUS5C6opw",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "S\u00e3o Paulo",
+            "short_name": "S\u00e3o Paulo",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "S\u00e3o Paulo",
+            "short_name": "S\u00e3o Paulo",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "State of S\u00e3o Paulo",
+            "short_name": "SP",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brazil",
+            "short_name": "BR",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "S\u00e3o Paulo, State of S\u00e3o Paulo, Brazil",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": -23.3566039,
+              "lng": -46.3650844
+            },
+            "southwest": {
+              "lat": -24.0082209,
+              "lng": -46.825514
+            }
+          },
+          "location": {
+            "lat": -23.5557714,
+            "lng": -46.6395571
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": -23.3566039,
+              "lng": -46.3650844
+            },
+            "southwest": {
+              "lat": -24.0082209,
+              "lng": -46.825514
+            }
+          }
+        },
+        "place_id": "ChIJ0WGkg4FEzpQRrlsz_whLqZs",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "State of S\u00e3o Paulo",
+            "short_name": "SP",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Brazil",
+            "short_name": "BR",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "State of S\u00e3o Paulo, Brazil",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": -19.7796559,
+              "lng": -44.1613651
+            },
+            "southwest": {
+              "lat": -25.3579997,
+              "lng": -53.1101115
+            }
+          },
+          "location": {
+            "lat": -21.2922457,
+            "lng": -50.3428431
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": -19.7796559,
+              "lng": -44.1613651
+            },
+            "southwest": {
+              "lat": -25.3579997,
+              "lng": -53.1101115
+            }
+          }
+        },
+        "place_id": "ChIJrVgvRn1ZzpQRF3x74eJBUh4",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "address_components": [
+          {
+            "long_name": "Brazil",
+            "short_name": "BR",
+            "types": [
+              "country",
+              "political"
+            ]
+          }
+        ],
+        "formatted_address": "Brazil",
+        "geometry": {
+          "bounds": {
+            "northeast": {
+              "lat": 5.2700477,
+              "lng": -28.650543
+            },
+            "southwest": {
+              "lat": -34.0891,
+              "lng": -73.982817
+            }
+          },
+          "location": {
+            "lat": -14.235004,
+            "lng": -51.92528
+          },
+          "location_type": "APPROXIMATE",
+          "viewport": {
+            "northeast": {
+              "lat": 5.2700477,
+              "lng": -28.650543
+            },
+            "southwest": {
+              "lat": -34.0891,
+              "lng": -73.982817
+            }
+          }
+        },
+        "place_id": "ChIJzyjM68dZnAARYz4p8gYVWik",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ]
+  }
+]
