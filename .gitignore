@@ -1,3 +1,5 @@
 .env
 __pycache__
-./out/MDIP.xlsx
+*.xlsx
+./out/*
+.ipynb_checkpoints
